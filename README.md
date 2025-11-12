@@ -1,0 +1,2 @@
+# pacrinth
+Modrinth package manager :)
